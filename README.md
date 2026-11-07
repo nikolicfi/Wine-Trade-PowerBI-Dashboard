@@ -1,7 +1,5 @@
 <h1 align="center">🍷 Wine Trade Power BI Dashboard</h1>
 
-> **Note:** This project is my personal coursework, shared for portfolio and reference purposes only. The dataset is fictional. Please do not copy it and submit it as your own work, as that may count as plagiarism under your institution's rules.
-
 <p align="center">
   A Power BI management dashboard, data model and business-intelligence report for a fictional wine trade.
 </p>
@@ -12,6 +10,8 @@
   <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-ETL-217346">
   <img alt="Data" src="https://img.shields.io/badge/Data-Excel-217346?logo=microsoftexcel&logoColor=white">
 </p>
+
+> **Note:** This project is my personal coursework, shared for portfolio and reference purposes only. The dataset is fictional. Please do not copy it and submit it as your own work, as that may count as plagiarism under your institution's rules.
 
 <p align="center">
   <img src="Screenshots/Main.png" alt="Management dashboard" width="900">
